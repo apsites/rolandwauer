@@ -33,14 +33,15 @@
 
 .link:active {
     background-color: $primary;
-    color: $complementary;
+    color: black;
     outline: none;
 }
 
 .link--styles {
     text-decoration: none;
     font-family: $font;
-    color: $primary;
+    background-color: $primary;
+    color: white;
 }
 
 @keyframes rotate {

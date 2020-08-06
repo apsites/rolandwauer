@@ -10,7 +10,7 @@ export default function Author() {
             </div>
             <div className="summary-container">
                 <p className="summary summary--styles">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum, justo non finibus luctus, lacus erat ultricies ante, sit amet faucibus sem diam sed felis. Pellentesque iaculis dignissim ante, a scelerisque arcu porta quis. Phasellus in elementum dui, non feugiat massa. Donec id felis vitae nisi sagittis accumsan eget quis tellus. Maecenas efficitur velit odio, ultrices ullamcorper lectus vestibulum vitae. Vestibulum pretium tristique rhoncus. Etiam auctor lectus non iaculis lacinia. Duis faucibus tortor nec augue viverra, et ultrices nunc viverra. Vivamus blandit eu tortor ut vulputate. Donec in ex rhoncus, commodo est quis, pharetra ex. Nunc feugiat suscipit purus sit amet sagittis.
+                    Roland H. Wauer retired from the National Park Service in 1989, after a 32-year career as a park ranger at Crater Lake National Park(NP), Death Valley NP, Pinnicales NM, Zion NP, and Big Bend NP; Southwest Region Chief Scientist (1972-79), and Chief of Natural Resources in the Washington, DC Office (1972-83). During the later period he coordinated two NPS State of the Parks reports, developed the Service-wide Natural Resources Management Trainee Program, and served as Chairman of the Interagency Grizzly Bear Steering Committee.
                 </p>
             </div>
         </div>
