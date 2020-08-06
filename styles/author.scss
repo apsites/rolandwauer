@@ -40,8 +40,8 @@
 
 .summary {
     padding-top: 125px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
     text-align: center;
     line-height: 1.5;
 }
@@ -70,5 +70,11 @@
     font-size: 25px;
 }
 
-
+    .summary {
+    padding-top: 125px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    line-height: 1.5;
+    }
 }
